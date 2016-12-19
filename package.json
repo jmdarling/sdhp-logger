@@ -1,0 +1,11 @@
+{
+  "name": "sdhp-logger",
+  "version": "0.0.1",
+  "description": "Super Duper Happy Path Logger",
+  "main": "app.js",
+  "author": "Jonathan Darling (jmdarling@me.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
